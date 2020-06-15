@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python interpreter.
+Python interpreter. Can use Nikto databases. 
 
 ### Installing
 
